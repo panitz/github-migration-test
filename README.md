@@ -7,3 +7,4 @@ Change for both repositories.
 Changed remote origin.
 
 Test from command line.
+Another test from the command line.
